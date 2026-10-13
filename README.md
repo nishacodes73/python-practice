@@ -23,3 +23,38 @@ What This Project Demonstrates
 * Checking valid marks between 0 and 100
 * Assigning grades based on marks
 * Using conditional logic to make decisions
+
+
+Student Marks List Manager
+
+About
+
+A beginner-friendly Python project created to practise lists and list operations.
+
+Features
+
+* Displays student marks
+* Finds maximum and minimum marks
+* Counts list elements
+* Accesses elements using indexing and slicing
+* Searches for values using count() and index()
+* Adds and removes list elements
+* Sorts and reverses the list
+
+Concepts Used
+
+* Python lists
+* Indexing and slicing
+* Built-in functions: len(), max(), and min()
+* List methods: append(), extend(), insert(), remove(), pop(), count(), index(), sort(), and reverse()
+
+How to Run
+
+1. Install Python.
+2. Open the project in VS Code or Python IDLE.
+3. Run student_marks_list_manager.py.
+4. Observe the output after each list operation.
+
+Learning Goal
+
+To strengthen Python fundamentals through hands-on coding and practice.
