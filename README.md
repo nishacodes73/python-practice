@@ -58,3 +58,31 @@ How to Run
 Learning Goal
 
 To strengthen Python fundamentals through hands-on coding and practice.
+
+
+Python Practice Programs
+
+This repository contains beginner-friendly Python practice programs created while learning Python fundamentals.
+
+Topics Covered
+
+* Variables and data types
+* Input and output
+* Conditional statements
+* Loops (for and while)
+* Strings
+* Lists and tuples
+* Basic problem-solving
+
+Practice Files
+
+* Hello.py – Basic Python output
+* conditional_statements.py – Conditional statement practice
+* while_loop.py – While loop exercises
+* List_tuples_project.py– List and tuple practice
+* student_mark.py – Student marks practice
+* Student_Marks_list_Manager.py– Student marks list management
+
+Learning Goal
+
+To strengthen Python fundamentals through hands-on coding, practice problems, and small projects.
