@@ -83,6 +83,6 @@ Practice Files
 * student_mark.py – Student marks practice
 * Student_Marks_list_Manager.py– Student marks list management
 
-Learning Goal
+Learning Goal:
 
 To strengthen Python fundamentals through hands-on coding, practice problems, and small projects.
