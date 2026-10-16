@@ -24,7 +24,7 @@ What This Project Demonstrates
 * Assigning grades based on marks
 * Using conditional logic to make decisions
 
-
+---------------------------
 Student Marks List Manager
 
 About
