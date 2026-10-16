@@ -86,3 +86,21 @@ Practice Files
 Learning Goal:
 
 To strengthen Python fundamentals through hands-on coding, practice problems, and small projects.
+
+
+-----------------
+For Loop Practice
+-----------------
+A collection of beginner-friendly Python exercises to practise for loops and basic problem-solving.
+
+Topics covered:
+
+* Using range()
+* Iterating through numbers and strings
+* Accumulating a sum
+* Multiplication tables
+* Counting vowels
+* Finding the largest number
+* Counting positive numbers
+
+
